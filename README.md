@@ -3,5 +3,5 @@
 Add an Employer,
 Edit an Employer,
 Delete an Employer.
-To use this application you need to be register anda after that you need to login.
+To use this application you need to be register and after that you need to login.
 
